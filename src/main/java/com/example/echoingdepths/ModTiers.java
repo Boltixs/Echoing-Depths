@@ -18,12 +18,12 @@ public final class ModTiers {
     );
 
     public static final ForgeTier VOIDGLASS = new ForgeTier(
-            4,          // mining level: netherite tier
+            4,          // mining level: above diamond tier
             2400,       // durability
             10.5F,      // mining speed
             4.5F,       // attack damage bonus
             22,         // enchantability
-            BlockTags.NEEDS_NETHERITE_TOOL,
+            BlockTags.NEEDS_DIAMOND_TOOL,
             () -> Ingredient.of(EchoingDepths.VOIDGLASS_INGOT.get())
     );
 }
