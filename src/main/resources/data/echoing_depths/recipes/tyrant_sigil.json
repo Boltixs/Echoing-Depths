@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AEA",
+    "EHE",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "E": {
+      "item": "echoing_depths:abyssal_eye"
+    },
+    "H": {
+      "item": "echoing_depths:colossus_heart"
+    }
+  },
+  "result": {
+    "item": "echoing_depths:tyrant_sigil"
+  }
+}

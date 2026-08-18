@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "echoing_depths:echo_ruins",
+  "step": "underground_structures"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:echo_shard"
+    },
+    "B": {
+      "item": "echoing_depths:resonite_ingot"
+    },
+    "C": {
+      "item": "echoing_depths:resonance_core"
+    }
+  },
+  "result": {
+    "item": "echoing_depths:echo_sigil"
+  }
+}

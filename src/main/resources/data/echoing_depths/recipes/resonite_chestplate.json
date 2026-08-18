@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "I I",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "echoing_depths:resonite_ingot"
+    }
+  },
+  "result": {
+    "item": "echoing_depths:resonite_chestplate"
+  }
+}

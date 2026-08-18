@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "echoing_depths:resonite_ingot"
+    },
+    "C": {
+      "item": "minecraft:bookshelf"
+    },
+    "D": {
+      "item": "echoing_depths:resonant_shard"
+    }
+  },
+  "result": {
+    "item": "echoing_depths:resonance_table"
+  }
+}

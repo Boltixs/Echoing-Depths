@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RCR",
+    "CEC",
+    "RCR"
+  ],
+  "key": {
+    "R": {
+      "item": "echoing_depths:resonite_ingot"
+    },
+    "C": {
+      "item": "echoing_depths:resonance_core"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "echoing_depths:colossus_sigil"
+  }
+}

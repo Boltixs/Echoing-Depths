@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.8,
+  "ingredient": {
+    "item": "echoing_depths:raw_resonite"
+  },
+  "result": "echoing_depths:resonite_ingot"
+}
