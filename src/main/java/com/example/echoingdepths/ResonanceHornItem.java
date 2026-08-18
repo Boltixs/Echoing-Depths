@@ -34,7 +34,7 @@ public class ResonanceHornItem extends Item {
                 nearby.addEffect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 100, 0));
             }
 
-            level.playSound(null, player.blockPosition(), SoundEvents.NOTE_BLOCK_DIDGERIDOO,
+            level.playSound(null, player.blockPosition(), SoundEvents.NOTE_BLOCK_DIDGERIDOO.value(),
                     SoundSource.PLAYERS, 1.5F, 0.7F);
 
             player.getCooldowns().addCooldown(this, 20 * 30);
